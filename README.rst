@@ -64,7 +64,7 @@ For Adding your favourite movies and running this movie trailer website, you nee
 Licence
 -------
 
-BSD-3-Clause: `LICENSE <https://github.com/jkbrzt/httpie/blob/master/LICENSE>`_.
+Mit: `LICENSE <https://github.com/dhananjaydeath/Movie-Trailer-Website/raw/master/LICENSE>`_.
 
 -------
 Authors
